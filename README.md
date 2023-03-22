@@ -15,7 +15,7 @@ A web app that generates unique prompts for AI Art Generation and Instagram post
 - Static website hosted via GitHub Pages
 
 ## How to Use
-1. Access the web app by visiting https://awesomeprompts.com.
+1. Access the web app by visiting https://www.awesomeprompts.com
 2. Enter your desired industry, profession, use case, and keywords (optional) and click "Generate Prompts".
 3. The app will generate 5 unique prompts for AI Art Generation or Instagram posts ideas.
 4. Use these prompts to create engaging social media content and improve your online presence.
